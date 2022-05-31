@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="logtest.index" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="logtest.index" %>
 
 <!DOCTYPE html>
 
@@ -111,4 +111,5 @@
     </div>
 </body>
 </html>
+
 
